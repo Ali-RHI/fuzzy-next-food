@@ -1,9 +1,8 @@
+import HomePage from "../components/templates/HomePage.js";
 
 
 export default function Home() {
   return (
-    <>
-      <h1>nextfood</h1>
-    </>
+    <HomePage />
   )
 }
